@@ -5,4 +5,5 @@
 <p>&nbsp;</p>
 
 <h2>Demon1 Dashboard</h2>
-![Demon1 Dashboard](https://github.com/Dhanesha151001/Valorant-Champions-2023-LA-Data-Analysis/assets/103206429/5414bf5f-311f-4c34-819e-e01ff81775cf)
+
+![Demon1 Dashboard](https://github.com/Dhanesha151001/Valorant-Champions-2023-LA-Data-Analysis/assets/103206429/c08fbdb8-95f8-4921-a080-039701bc15b0)
